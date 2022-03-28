@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>Module-security</module>
+        <module>Module-comon</module>
     </modules>
 
     <dependencies>
